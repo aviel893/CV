@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    
+</head>
+<body>
+    <div class="container">
+        <h1>Aviel Maman</h1>
+        <h2>Mechanical Engineer - Mechanical Design | Software Engineer Knowledge in HTML & CSS</h2>
+        
+        <div class="section">
+            <h3> Contact information</h3>
+            <p>📧 avielmaman@gmail.com</p>
+            <p>📞 טלפון: 050-1234567</p>
+            <p>💼 <a href="https://www.linkedin.com/in/aviel-maman-b69bba1a2" target="_blank">LinkedIn</a></p>
+        </div>
+
+        <div class="section">
+            <h3>💼 Work experience:</h3>
+            <ul>
+                <li><strong>Mechanical Engineer</strong> - C-ATA Company (2023 - 2024)</li>
+                <li><strong>Mechanical Engineer</strong> -  System Engineer at Hameshavev Company (2022-2023)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>🎓 education:</h3>
+            <p>Bachelor's Degree in Mechanical Engineering - Azrieli College</p>
+        </div>
+
+        <div class="section">
+            <h3>🛠️ Skills:</h3>
+            <ul>
+                <li>SolidWorks</li>
+                <li>Thermal analyses</li>
+                <li>Multidisciplinary systems design</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>🌐 Languages:</h3>
+            <p>Hebrew, English</p>
+        </div>
+    </div>
+</body>
+</html>
 
